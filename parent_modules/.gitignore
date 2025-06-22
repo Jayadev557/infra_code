@@ -1,0 +1,8 @@
+# Terraform folders
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+# Sensitive variable files
+*.tfvars
